@@ -16,6 +16,15 @@
   background-color: #fff;
 }
 
+#sendbtn {
+  background: #24d366;
+}
+
+#sendbtn i {
+  font-size: 22px;
+  width: 30px;
+}
+
 /*style the arrow inside the select element:*/
 .select-selected:after {
   position: absolute;
